@@ -1,21 +1,34 @@
 import './StickersPage.css';
 import React, { FC } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import stickers_list from '../../database/stickers_list.json';
+import accessories_list from '../../database/accessories_list.json';
 
 
 const StickersPage: FC = () => {
-    const stickers = stickers_list;
+    const { id } = useParams();
+
+    const whichCategory = (id: any) => {
+        if (id === "stickers") {
+            return stickers_list;
+        } else if (id === "accessories") {
+            return accessories_list;
+        }
+    }
+
+    const category = whichCategory(id);
 
     return <>
-        <div className='stickers-main-div'>
-            <p className='stickers-header'>Stickers</p>
-            {stickers.length > 0 ? 
-                stickers.map(sticker => (
-                    <div className='aSticker'>
-                        <Link to={`/items/${sticker.id}`} className='stickerLink'>
-                            <img className='stickerIMG' src={process.env.PUBLIC_URL + `/Products_Images/${sticker.src}`} alt=''></img>
-                            <p className='stickerTitle'>{sticker.name}</p>
+        <div className='main-div'>
+            {id === "stickers" ? <p className='catHeader'>Stickers</p> :
+                <p className='catHeader'>Accessories</p>
+            }
+            {category!.length > 0 ? 
+                category!.map(item => (
+                    <div className='anItem'>
+                        <Link to={`/items/${item.id}`} className='itemLink'>
+                            <img className='itemIMG' src={process.env.PUBLIC_URL + `/Products_Images/${item.src}`} alt=''></img>
+                            <p className='itemTitle'>{item.name}</p>
                         </Link>  
                     </div>
                 ))

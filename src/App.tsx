@@ -51,9 +51,8 @@ const App: FC = () => {
       
       <Routes>
         <Route path='/' element={<FrontPage />}/>
-        <Route path='/stickers' element={<StickersPage />}/>
-        <Route path='/accessories' element={<AccessoriesPage />}/>
         <Route path='/items/:id' element={<ProductsPage />}/>
+        <Route path='/:id' element={<StickersPage />}/>
         <Route path="*" element={<NoPage />}/>
       </Routes>
     </BrowserRouter>
