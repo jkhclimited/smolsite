@@ -1,0 +1,25 @@
+.homepage-main-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 40vw;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.homepage-header {
+    font-size: 3vw;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin: 3.9vh 10px 10px 10px;
+    border: lightslategray 3px solid;
+    border-radius: 20px;
+}
+
+@media (max-width: 1080px) {
+    .homepage-main-div { width: 75vw; }
+}

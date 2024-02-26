@@ -1,0 +1,48 @@
+.stickers-main-div {
+    margin: 0 auto;
+    width: 75vw;
+    text-align: center;
+}
+
+.stickerLink {
+    text-decoration: none;
+}
+
+.stickers-header {
+    font-size: 3vw;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+}
+
+ /* top right bottom left */
+
+.aSticker {
+    display: inline-block;
+    margin: 10px;
+    max-width: 30vw;
+    vertical-align: top;
+}
+
+.stickerTitle {
+    margin: 0;
+    font-weight: bold;
+}
+
+.stickerIMG {
+    max-width: 30vw;
+}
+
+@media (max-width: 1080px) {
+    .stickers-header { font-size: 4vw; }
+    .stickerTitle { font-size: 2vw; }
+}
+
+@media (max-width: 580px) {
+    .stickers-header { font-size: 6vw; }
+    .stickerTitle { font-size: 4.5vw; }
+    .aSticker { max-width: 60vw; }
+    .stickerIMG { max-width: 60vw; }
+}

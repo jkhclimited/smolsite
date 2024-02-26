@@ -1,0 +1,34 @@
+[
+    {
+        "name": "[PRESALE] Spider Lily Bentou Deckbox",
+        "src": "Spider_Lily_Deckbox_1.jpg",
+        "images": ["/Spider_Lily_Deckbox_1.jpg", "/Spider_Lily_Deckbox_2.jpg", "/Spider_Lily_Deckbox_3.jpg", "/Spider_Lily_Deckbox_4.jpg"],
+        "price": "$50 CAD / $35 USD",
+        "description": "Step into a realm of elegance and artistry with the Bento 弁当 Spider Lily, a creation by Raravin and Rafu, featuring artwork by shidanesayo. Able to fit 160 double sleeved cards, this deckbox excudes luxury and durability with its premium vegan leather construction, ensuring your valuable cards remain protected and safe inside. The magnetic closure system guarantees secure storage while on the move, and the integrated dice tray holds all the dice you need for any scenario. This is a deckbox, designed by weebs, for fellow weebs.",
+        "id": "sakanaaaaaa-box"
+    },
+    {
+        "name": "Tamamo Dice - Pink",
+        "src": "Tamamo_Pink_Dice_1.jpg",
+        "images": [],
+        "price": "$5 CAD / $3.75 USD",
+        "description": "Roll on your opponents with style! Tamamo appears when you're extra lucky and hit the 6!",
+        "id": "kon-kon-dice"
+    },
+    {
+        "name": "Happy Tanuki Noises Raphtalia",
+        "src": "Happy_Tanuki_Noises_1.jpg",
+        "images": [],
+        "price": "$4 CAD / 3 USD",
+        "description": "Raphtalia's happy! Thus making Happy Tanuki Noises!",
+        "id": "happy-tanuki-noises"
+    },
+    {
+        "name": "Suzuki Carry (Kei Truck)...Pink!",
+        "src": "Pink_Kei_Truck_1.jpg",
+        "images": [],
+        "price": "$4 CAD / 3 USD",
+        "description": "Not your everyday Kei Truck",
+        "id": "suzuki-carried-the-pink"
+    }
+]

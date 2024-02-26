@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Happy Tanuki Noises Raphtalia",
+        "src": "Happy_Tanuki_Noises_1.jpg",
+        "images": [],
+        "price": "$4 CAD / 3 USD",
+        "description": "Raphtalia's happy! Thus making Happy Tanuki Noises!",
+        "id": "happy-tanuki-noises"
+    },
+    {
+        "name": "Suzuki Carry (Kei Truck)...Pink!",
+        "src": "Pink_Kei_Truck_1.jpg",
+        "images": [],
+        "price": "$4 CAD / 3 USD",
+        "description": "Not your everyday Kei Truck",
+        "id": "suzuki-carried-the-pink"
+    }
+]
