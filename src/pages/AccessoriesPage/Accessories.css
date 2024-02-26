@@ -29,6 +29,7 @@
 .accessoriesTitle {
     margin: 0;
     font-weight: bold;
+    font-size: 1.5vw;
 }
 
 .accessoriesIMG {
@@ -43,6 +44,6 @@
 @media (max-width: 580px) {
     .accessories-header { font-size: 6vw; }
     .accessoriesTitle { font-size: 4.5vw; }
-    .anAccessory { max-width: 60vw; }
+    .anAccessor { max-width: 60vw; }
     .accessoriesIMG { max-width: 60vw; }
 }

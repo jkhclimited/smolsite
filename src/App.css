@@ -1,7 +1,14 @@
 html {
   background-color: #1b181d;
   text-align: center;
-  color: #fff;
+}
+
+a:link, a:visited, a:active {
+  color: white;
+}
+
+a:hover {
+  color: rgb(238, 122, 140);
 }
 
 .App {
