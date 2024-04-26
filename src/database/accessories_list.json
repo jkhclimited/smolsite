@@ -1,18 +1,97 @@
 [
     {
         "name": "[PRESALE] Spider Lily Bentou Deckbox",
-        "src": "Spider_Lily_Deckbox_1.jpg",
-        "images": ["/Spider_Lily_Deckbox_1.jpg", "/Spider_Lily_Deckbox_2.jpg", "/Spider_Lily_Deckbox_3.jpg", "/Spider_Lily_Deckbox_4.jpg"],
-        "price": "$50 CAD / $35 USD",
-        "description": "Step into a realm of elegance and artistry with the Bento 弁当 Spider Lily, a creation by Raravin and Rafu, featuring artwork by shidanesayo. Able to fit 160 double sleeved cards, this deckbox excudes luxury and durability with its premium vegan leather construction, ensuring your valuable cards remain protected and safe inside. The magnetic closure system guarantees secure storage while on the move, and the integrated dice tray holds all the dice you need for any scenario. This is a deckbox, designed by weebs, for fellow weebs.",
+        "src": "1001_Spider_Lily_Deckbox_1.jpg", 
         "id": "sakanaaaaaa-box"
     },
     {
         "name": "Tamamo Dice - Pink",
-        "src": "Tamamo_Pink_Dice_1.jpg",
-        "images": [],
-        "price": "$5 CAD / $3.75 USD",
-        "description": "",
+        "src": "1002_Tamamo_Pink_Dice_1.jpg",
         "id": "kon-kon-dice"
+    },
+    {
+        "name": "Happy Tanuki Noises Raphtalia Acrylic Keychain",
+        "src": "1003_Happy_Tanuki_Noises_1.jpg",
+        "id": "happy-tanuki-noises"
+    },
+    {
+        "name": "Fluffy Firo Chirps Acrylic Keychain",
+        "src": "1003_Fluffy_Firo_Chirps_1.png",
+        "id": "fluffy-firo-chirps"
+    },
+    {
+        "name": "Naofumi, Reluctant Sigh Acrylic Keychain",
+        "src": "1003_Naofumi_Fine_1.png",
+        "id": "naofumi-reluctant-sigh"
+    },
+    {
+        "name": "CHINNANAGOOOO Acrylic Keychain",
+        "src": "1004_Chisato_Chinanago.png",
+        "id": "chinanago"
+    },
+    {
+        "name": "SAKANAAAAA Acrylic Keychain",
+        "src": "1004_Takina_Sakana.png",
+        "id": "sakana"
+    },
+    {
+        "name": "Chin...anago? Acrylic Keychain",
+        "src": "1004_Takina_Sakana.png",
+        "id": "takinanago"
+    },
+    {
+        "name": "SaaaaaKANNAAAAA! Acrylic Keychain",
+        "src": "1004_Takina_Sakana.png",
+        "id": "chisakana"
+    },
+    {
+        "name": "Inuyasha eats Ramen Acrylic Keychain",
+        "src": "1005_Inuyasha_Ramen.png",
+        "id": "inuramen"
+    },
+    {
+        "name": "Kagome drinks Tea Acrylic Keychain",
+        "src": "1005_Kagome_Tea.png",
+        "id": "kagometea"
+    },
+    {
+        "name": "Moroha eats Ramen Acrylic Keychain",
+        "src": "1005_Moroha_Ramen.png",
+        "id": "mororamen"
+    },
+    {
+        "name": "Acheron's Lost....Again Acrylic Keychain",
+        "src": "1006_Acheron_LexusGS.png",
+        "id": "acheron-lost"
+    },
+    {
+        "name": "Jing Yuan Travels Acrylic Keychain",
+        "src": "1006_JingYuan_4Runner.png",
+        "id": "jing-yuan-travels"
+    },
+    {
+        "name": "Kafka's Ride Acrylic Keychain",
+        "src": "1006_Kafka_Ferrari.png",
+        "id": "kafka-ferrari"
+    },
+    {
+        "name": "Serval at Formula Drift! Acrylic Keychain",
+        "src": "1006_Serval_RWB.png",
+        "id": "serval-rwb-drift"
+    },
+    {
+        "name": "Sparkle's Hako Acrylic Keychain",
+        "src": "1006_Sparkle_Hako.png",
+        "id": "sparkle-hako"
+    },
+    {
+        "name": "Stelle the Trash Bandit Acrylic Keychain",
+        "src": "1006_Stelle_Garbage_Truck.png",
+        "id": "stelling-yo-trash"
+    },
+    {
+        "name": "Tingyun - Whistling Flames Acrylic Keychain",
+        "src": "1006_Tingyun_Hiace.png",
+        "id": "tingyun-whistling-flames"
     }
 ]

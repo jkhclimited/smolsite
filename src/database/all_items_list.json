@@ -1,34 +1,382 @@
 [
     {
+        "name": "Happy Tanuki Noises Raphtalia",
+        "src": "1_Happy_Tanuki_Noises_1.jpg",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Raphtalia's happy! Thus making Happy Tanuki Noises!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "happy-tanuki-noises"
+    },
+    {
+        "name": "Fluffy Firo Chirps",
+        "src": "1_Fluffy_Firo_Chirps_1.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Target acquired, Melty spotted!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "fluffy-firo-chirps"
+    },
+    {
+        "name": "Naofumi, Reluctant Sigh",
+        "src": "1_Naofumi_Fine_1.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Fine, go ahead.",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "naofumi-reluctant-sigh"
+    },
+    {
+        "name": "CHINNANAGOOOO",
+        "src": "2_Chisato_Chinanago.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "わああ！ちんあなごおおお！",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "chinanago"
+    },
+    {
+        "name": "SAKANAAAAA",
+        "src": "2_Takina_Sakana.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "さーさかなああああ！",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "sakana"
+    },
+    {
+        "name": "Chin...anago?",
+        "src": "2_Takina_Sakana.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "ちんあなご？！",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "takinanago"
+    },
+    {
+        "name": "SaaaaaKANNAAAAA!",
+        "src": "2_Takina_Sakana.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "さかなあああ！",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "chisakana"
+    },
+    {
+        "name": "Inuyasha eats Ramen",
+        "src": "3_Inuyasha_Ramen.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Oooh, ninja food!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "inuramen"
+    },
+    {
+        "name": "Kagome drinks Tea",
+        "src": "3_Kagome_Tea.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Sigh.",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "kagometea"
+    },
+    {
+        "name": "Moroha eats Ramen",
+        "src": "3_Moroha_Ramen.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Yep, sure is.",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "mororamen"
+    },
+    {
+        "name": "Bocchi the Glock",
+        "src": "4_Bocchi_The_Glock.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "[SCREAMING INTENSIFIES]",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "bocchi-the-glock"
+    },
+    {
+        "name": "Acheron's Lost....Again",
+        "src": "5_Acheron_LexusGS.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "WHERE AM I????",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "acheron-lost"
+    },
+    {
+        "name": "Jing Yuan Travels",
+        "src": "5_JingYuan_4Runner.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Nothing like the outdoors and traveling unexplored terrain.",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "jing-yuan-travels"
+    },
+    {
+        "name": "Kafka's Ride",
+        "src": "5_Kafka_Ferrari.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "The road beckons. Are you ready?",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "kafka-ferrari"
+    },
+    {
+        "name": "Serval at Formula Drift!",
+        "src": "5_Serval_RWB.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "The judges will love my moves!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "serval-rwb-drift"
+    },
+    {
+        "name": "Sparkle's Hako",
+        "src": "5_Sparkle_Hako.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Heh.",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "sparkle-hako"
+    },
+    {
+        "name": "Stelle the Trash Bandit",
+        "src": "5_Stelle_Garbage_Truck.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Watch out! It's Ms. Steal Yo Trash!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "stelling-yo-trash"
+    },
+    {
+        "name": "Tingyun - Whistling Flames",
+        "src": "5_Tingyun_Hiace.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Your package is here!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "tingyun-whistling-flames"
+    },
+    {
+        "name": "Suzuki Carry (Kei Truck)...Pink!",
+        "src": "6_Pink_Kei_Truck_1.jpg",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Not your everyday Kei Truck. All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "description2": "All stickers are $5 CAD for 2, or $3.5 USD for 2!",
+        "type": "stickers",
+        "id": "suzuki-carried-the-pink"
+    },
+    {
         "name": "[PRESALE] Spider Lily Bentou Deckbox",
-        "src": "Spider_Lily_Deckbox_1.jpg",
-        "images": ["/Spider_Lily_Deckbox_1.jpg", "/Spider_Lily_Deckbox_2.jpg", "/Spider_Lily_Deckbox_3.jpg", "/Spider_Lily_Deckbox_4.jpg"],
-        "price": "$50 CAD / $35 USD",
+        "src": "1001_Spider_Lily_Deckbox_1.jpg",
+        "images": ["/1001_Spider_Lily_Deckbox_1.jpg", "/1001_Spider_Lily_Deckbox_2.jpg", "/1001_Spider_Lily_Deckbox_3.jpg", "/1001_Spider_Lily_Deckbox_4.jpg"],
+        "price": "$57 CAD / $40 USD",
         "description": "Step into a realm of elegance and artistry with the Bento 弁当 Spider Lily, a creation by Raravin and Rafu, featuring artwork by shidanesayo. Able to fit 160 double sleeved cards, this deckbox excudes luxury and durability with its premium vegan leather construction, ensuring your valuable cards remain protected and safe inside. The magnetic closure system guarantees secure storage while on the move, and the integrated dice tray holds all the dice you need for any scenario. This is a deckbox, designed by weebs, for fellow weebs.",
+        "description2": "",
+        "type": "accessories",
         "id": "sakanaaaaaa-box"
     },
     {
         "name": "Tamamo Dice - Pink",
-        "src": "Tamamo_Pink_Dice_1.jpg",
+        "src": "1002_Tamamo_Pink_Dice_1.jpg",
         "images": [],
-        "price": "$5 CAD / $3.75 USD",
+        "price": "$4 CAD / $3 USD",
         "description": "Roll on your opponents with style! Tamamo appears when you're extra lucky and hit the 6!",
+        "description2": "",
+        "type": "accessories",
         "id": "kon-kon-dice"
     },
     {
-        "name": "Happy Tanuki Noises Raphtalia",
-        "src": "Happy_Tanuki_Noises_1.jpg",
+        "name": "Happy Tanuki Noises Raphtalia Acrylic Keychain",
+        "src": "1003_Happy_Tanuki_Noises_1.jpg",
         "images": [],
-        "price": "$4 CAD / 3 USD",
+        "price": "$3 CAD / $2 USD",
         "description": "Raphtalia's happy! Thus making Happy Tanuki Noises!",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
         "id": "happy-tanuki-noises"
     },
     {
-        "name": "Suzuki Carry (Kei Truck)...Pink!",
-        "src": "Pink_Kei_Truck_1.jpg",
+        "name": "Fluffy Firo Chirps Acrylic Keychain",
+        "src": "1003_Fluffy_Firo_Chirps_1.png",
         "images": [],
-        "price": "$4 CAD / 3 USD",
-        "description": "Not your everyday Kei Truck",
-        "id": "suzuki-carried-the-pink"
+        "price": "$3 CAD / $2 USD",
+        "description": "Target acquired, Melty spotted!",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "fluffy-firo-chirps"
+    },
+    {
+        "name": "Naofumi, Reluctant Sigh Acrylic Keychain",
+        "src": "1003_Naofumi_Fine_1.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Fine, go ahead.",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "naofumi-reluctant-sigh"
+    },
+    {
+        "name": "CHINNANAGOOOO Acrylic Keychain",
+        "src": "1004_Chisato_Chinanago.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "わああ！ちんあなごおおお！",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "chinanago"
+    },
+    {
+        "name": "SAKANAAAAA Acrylic Keychain",
+        "src": "1004_Takina_Sakana.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "さーさかなああああ！",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "sakana"
+    },
+    {
+        "name": "Chin...anago? Acrylic Keychain",
+        "src": "1004_Takina_Sakana.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "ちんあなご？！",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "takinanago"
+    },
+    {
+        "name": "SaaaaaKANNAAAAA! Acrylic Keychain",
+        "src": "1004_Takina_Sakana.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "さかなあああ！",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "chisakana"
+    },
+    {
+        "name": "Inuyasha eats Ramen Acrylic Keychain",
+        "src": "1005_Inuyasha_Ramen.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Oooh, ninja food!",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "inuramen"
+    },
+    {
+        "name": "Kagome drinks Tea Acrylic Keychain",
+        "src": "1005_Kagome_Tea.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Sigh.",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "kagometea"
+    },
+    {
+        "name": "Moroha eats Ramen Acrylic Keychain",
+        "src": "1005_Moroha_Ramen.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Yep, sure is.",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "mororamen"
+    },
+    {
+        "name": "Acheron's Lost....Again Acrylic Keychain",
+        "src": "1006_Acheron_LexusGS.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "WHERE AM I????",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "acheron-lost"
+    },
+    {
+        "name": "Jing Yuan Travels Acrylic Keychain",
+        "src": "1006_JingYuan_4Runner.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Nothing like the outdoors and traveling unexplored terrain.",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "jing-yuan-travels"
+    },
+    {
+        "name": "Kafka's Ride Acrylic Keychain",
+        "src": "1006_Kafka_Ferrari.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "The road beckons. Are you ready?",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "kafka-ferrari"
+    },
+    {
+        "name": "Serval at Formula Drift! Acrylic Keychain",
+        "src": "1006_Serval_RWB.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "The judges will love my moves!",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "serval-rwb-drift"
+    },
+    {
+        "name": "Sparkle's Hako Acrylic Keychain",
+        "src": "1006_Sparkle_Hako.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Heh.",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "sparkle-hako"
+    },
+    {
+        "name": "Stelle the Trash Bandit Acrylic Keychain",
+        "src": "1006_Stelle_Garbage_Truck.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Watch out! It's Ms. Steal Yo Trash!",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "stelling-yo-trash"
+    },
+    {
+        "name": "Tingyun - Whistling Flames Acrylic Keychain",
+        "src": "1006_Tingyun_Hiace.png",
+        "images": [],
+        "price": "$3 CAD / $2 USD",
+        "description": "Your package is here!",
+        "description2": "All Acrylic Keychains are $12 CAD/ea, or $10 CAD/ea in quantities of 2 or more!",
+        "type": "accessories",
+        "id": "tingyun-whistling-flames"
     }
 ]

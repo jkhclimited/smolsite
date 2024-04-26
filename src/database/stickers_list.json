@@ -1,18 +1,97 @@
 [
     {
         "name": "Happy Tanuki Noises Raphtalia",
-        "src": "Happy_Tanuki_Noises_1.jpg",
-        "images": [],
-        "price": "$4 CAD / 3 USD",
-        "description": "Raphtalia's happy! Thus making Happy Tanuki Noises!",
+        "src": "1_Happy_Tanuki_Noises_1.jpg",
         "id": "happy-tanuki-noises"
     },
     {
+        "name": "Fluffy Firo Chirps",
+        "src": "1_Fluffy_Firo_Chirps_1.png",
+        "id": "fluffy-firo-chirps"
+    },
+    {
+        "name": "Naofumi, Reluctant Sigh",
+        "src": "1_Naofumi_Fine_1.png",
+        "id": "naofumi-reluctant-sigh"
+    },
+    {
+        "name": "CHINNANAGOOOO",
+        "src": "2_Chisato_Chinanago.png",
+        "id": "chinanago"
+    },
+    {
+        "name": "SAKANAAAAA",
+        "src": "2_Takina_Sakana.png",
+        "id": "sakana"
+    },
+    {
+        "name": "Chin...anago?",
+        "src": "2_Takina_Sakana.png",
+        "id": "takinanago"
+    },
+    {
+        "name": "SaaaaaKANNAAAAA!",
+        "src": "2_Takina_Sakana.png",
+        "id": "chisakana"
+    },
+    {
+        "name": "Inuyasha eats Ramen",
+        "src": "3_Inuyasha_Ramen.png",
+        "id": "inuramen"
+    },
+    {
+        "name": "Kagome drinks Tea",
+        "src": "3_Kagome_Tea.png",
+        "id": "kagometea"
+    },
+    {
+        "name": "Moroha eats Ramen",
+        "src": "3_Moroha_Ramen.png",
+        "id": "mororamen"
+    },
+    {
+        "name": "Bocchi the Glock",
+        "src": "4_Bocchi_The_Glock.png",
+        "id": "bocchi-the-glock"
+    },
+    {
+        "name": "Acheron's Lost....Again",
+        "src": "5_Acheron_LexusGS.png",
+        "id": "acheron-lost"
+    },
+    {
+        "name": "Jing Yuan Travels",
+        "src": "5_JingYuan_4Runner.png",
+        "id": "jing-yuan-travels"
+    },
+    {
+        "name": "Kafka's Ride",
+        "src": "5_Kafka_Ferrari.png",
+        "id": "kafka-ferrari"
+    },
+    {
+        "name": "Serval at Formula Drift!",
+        "src": "5_Serval_RWB.png",
+        "id": "serval-rwb-drift"
+    },
+    {
+        "name": "Sparkle's Hako",
+        "src": "5_Sparkle_Hako.png",
+        "id": "sparkle-hako"
+    },
+    {
+        "name": "Stelle the Trash Bandit",
+        "src": "5_Stelle_Garbage_Truck.png",
+        "id": "stelling-yo-trash"
+    },
+    {
+        "name": "Tingyun - Whistling Flames",
+        "src": "5_Tingyun_Hiace.png",
+        "id": "tingyun-whistling-flames"
+    },
+    {
         "name": "Suzuki Carry (Kei Truck)...Pink!",
-        "src": "Pink_Kei_Truck_1.jpg",
-        "images": [],
-        "price": "$4 CAD / 3 USD",
-        "description": "Not your everyday Kei Truck",
+        "src": "6_Pink_Kei_Truck_1.jpg",
         "id": "suzuki-carried-the-pink"
     }
 ]

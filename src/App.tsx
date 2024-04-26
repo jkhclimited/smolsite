@@ -4,10 +4,10 @@ import { BrowserRouter, Route, Routes, } from 'react-router-dom';
 import Footer from './components/Footer/Footer';
 import NavBar from './components/NavBar/NavBar';
 import FrontPage from './pages/FrontPage/FrontPage';
-import AccessoriesPage from './pages/AccessoriesPage/Accessories';
 import ProductsPage from './pages/ProductPage/ProductPage';
 import StickersPage from './pages/StickersPage/StickersPage';
 import NoPage from './pages/NoPage/NoPage';
+import CartPage from './pages/CartPage/CartPage';
 
 
 interface AppOverallState {
@@ -51,6 +51,7 @@ const App: FC = () => {
       
       <Routes>
         <Route path='/' element={<FrontPage />}/>
+        <Route path='/cart' element={<CartPage />}/>
         <Route path='/items/:id' element={<ProductsPage />}/>
         <Route path='/:id' element={<StickersPage />}/>
         <Route path="*" element={<NoPage />}/>

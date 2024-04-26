@@ -32,7 +32,7 @@ const StickersPage: FC = () => {
                         </Link>  
                     </div>
                 ))
-            : <p>No Stickers!</p>}
+            : <p>No Items!</p>}
         </div>
     </>
 }
